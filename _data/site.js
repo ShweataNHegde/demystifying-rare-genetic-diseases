@@ -15,6 +15,6 @@ module.exports = {
   },
   hero: { // used in hero section of main page ie. index.html.njk
     title: "Demystifying Rare Genetic Diseases",
-    description: "A comprehensive portal for all Information, Education and Communication resources related to Rare Genetic Diseasesdes"
+    description: "A comprehensive portal for all Information, Education and Communication resources related to Rare Genetic Diseases"
   }
 }

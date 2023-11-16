@@ -31,11 +31,17 @@ eleventyNavigation:
       {% endif %}
     </p>
   </div>
-
-  <h2 class="section-title">
+  <h1 class="section-title">
     NPRD Resources
     {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %}
-  </h2>
+  </h1>
+  {% set posts = collections.NPRD2021 %}
+  {% include "components/postslist.njk" %}
+  <h1 class="section-title">
+   Test
+    {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %}
+  </h1>
+  {% set posts = collections.test %}
   {% include "components/postslist.njk" %}
   <div class="pagination">
       {% if pagination.previous %}
