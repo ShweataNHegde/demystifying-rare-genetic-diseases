@@ -24,4 +24,4 @@ NPRD 2021 points out that primary prevention strategies like avoiding pregnancy 
 
 Early diagnosis of rare diseases is a challenge since we lack awareness among primary care physicians and adequate screening and diagnostic facilities. Therefore, 11 Centres of Excellence have been identified by NPRD and will be involved in screening (antenatal, neonatal) and diagnostics. 
 
-Download this as a poster, [here]()
+Download this as a poster, <a href ="/static/documents/nprd_2021_prevention_infographic.pdf" attributes-list download > here.</a>  
